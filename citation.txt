@@ -1,0 +1,10 @@
+@article{REPO324,
+    author = "Zheng, Xubin and Leung, Kwong-Sak and Wong, Man-Hon and Cheng, Lixin",
+    journal = "BMC genomics",
+    number = "1",
+    pages = "1--13",
+    publisher = "BioMed Central",
+    title = "{Long Non-Coding RNA Pairs to Assist in Diagnosing Sepsis}",
+    volume = "22",
+    year = "2021"
+}
